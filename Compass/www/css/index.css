@@ -1,0 +1,20 @@
+#compass{
+    width: 450px;
+    height: 460px;
+    border-radius: 100px;
+    background-image: url("../img/compass.png");
+}
+
+#arrow{
+    width: 140px;
+    height: 200px;
+    margin: 190px 173px;
+    -webkit-transition: transform 1.5s;
+}
+
+#button{
+    width: 200px;
+    height: 80px;
+    margin: 20px 140px;
+    cursor: pointer;
+}
